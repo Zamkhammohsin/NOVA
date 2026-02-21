@@ -16,7 +16,7 @@ Nova is more than a clock—it’s a statement on your desktop. Clean lines, mod
 
 Download / Usage:
 
-Run the .exe file to launch Nova
+Download link: https://zamkham.itch.io/nova
 
 Customize colors, gradients, and widget size from settings
 
